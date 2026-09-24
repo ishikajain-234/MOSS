@@ -209,3 +209,15 @@ A high-level overview of the project structure:
   * `frontend/`: Contains the React frontend code (setup instructions not covered here).
   * `logs/`: Where log files (`moss_api.log`, `moss_celery.log`) are stored.
   * `scripts/`: Helper scripts (database setup).
+
+## Community & Communication
+
+MOSS is an open-source initiative developed under the [Open-Source Science Initiative (OSSci)](https://numfocus.org/open-source-science-initiative-ossci), incubated by [NumFOCUS](https://numfocus.org). We welcome contributors, researchers, and community members to get involved!
+
+* **Slack & Community Onboarding:** The MOSS community collaborates as part of the OSSci network. To join the Slack workspace and connect with the Map of Open Source Science working group, please fill out the [OSSci Community Interest Survey](https://forms.gle/ma5ca5QrmGTn2SLC7) (select "The Map of Open-Source Science (MOSS)" under interests) or open an issue on GitHub to connect with the team.
+* **Community Calls:** Community meetings and interest group sessions are scheduled through the OSSci community channels. Announcements and updates are shared via the community mailing list and Slack.
+* **Discussions & Issues:** For feature proposals, bug reports, and technical discussions, please open an issue on our [GitHub Issue Tracker](https://github.com/numfocus/MOSS/issues).
+
+## Contributing
+
+We welcome contributions of all kinds! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on code style, branch naming conventions, commit message standards, and the pull request review process.
